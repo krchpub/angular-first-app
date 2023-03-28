@@ -1,0 +1,10 @@
+/* Add application styles & imports to this file! */
+h1 {
+  color: lightblue;
+  font-size: 44px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+a {
+  color: rgb(146, 205, 219);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
